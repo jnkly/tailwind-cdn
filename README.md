@@ -1,3 +1,3 @@
 # tailwind-play-cdn
 
-Save
+![Tailwind Play CDN Screenshot](tailwind-play-cdn.png)
